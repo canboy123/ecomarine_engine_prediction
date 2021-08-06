@@ -3,7 +3,7 @@
 This is a script to predict a ship engine's consumption (i.e. torque and fuel) from the speed value of the ship.
 
 ## Prerequisite
-- python 3.7.9
+- python==3.7.9
 - tensorflow==2.5.0 / tensorflow-gpu==2.5.0
 - matplotlib==3.4.2
 - pandas==1.2.5
